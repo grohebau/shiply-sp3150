@@ -26,12 +26,12 @@
       }
     ],
     "orderDate": "04.05.2026",
-    "deliveryDate": "12.06.2026 🕟 16:30 Uhr",
+    "deliveryDate": "15.06.2026 🕒 15:00 Uhr",
     "pickup": {
-      "street": "In der Au 14",
-      "postal_code": "8406",
-      "city": "Winterthur",
-      "country": "Schweiz",
+      "street": "Medipark 2",
+      "postal_code": "83088",
+      "city": "Kiefersfelden",
+      "country": "Deutschland",
       "lat": "",
       "lng": ""
     },
